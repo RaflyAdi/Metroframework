@@ -1,0 +1,14 @@
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.vbprojResolveAssemblyReference.cache
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.Resources.resources
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.vbproj.GenerateResource.Cache
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\bin\Debug\Metroframework.exe
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\bin\Debug\Metroframework.pdb
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\bin\Debug\Metroframework.xml
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\bin\Debug\MetroFramework.dll
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.exe
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.xml
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.pdb
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.Login.resources
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.buatuser.resources
+C:\Users\ideapad305\Documents\Visual Studio 2010\Projects\Metroframework\Metroframework\obj\x86\Debug\Metroframework.halamanawalmula.resources
